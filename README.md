@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yash Izate!</h1>  
-<h3 align="center">🚀 Aspiring AI/ML Engineer & Full Stack Web Developer</h3>  
+<h3 align="center">🚀 Aspiring AI/ML & Full Stack Web Developer</h3>  
 
 ### **🙋‍♂️ About Me**  
 - 👀 Interested in **Full Stack Development** | Familiar with **Python & Java**  
@@ -18,7 +18,7 @@
 
 ### 🔥 **GitHub Streak**
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
 </p>  
 
 ### 🚀 **Profile Statistics**  
@@ -26,9 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>  
 
-### 💻 **Most Used Languages**  
+### 📆 **GitHub Activity Graph** (Fixed Link ✅)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-izate&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
 </p>  
 
 ### 🏆 **GitHub Trophies**  
@@ -36,23 +36,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>  
 
-### 📈 **Contribution Graph**  
+### 📈 **Previous Year’s GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Previous Year Stats" />
 </p>  
 
-### ⚡ **GitHub Profile Summary**  
+### 💻 **Most Used Languages**  
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-izate&theme=radical" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-izate&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
-
-## 🎯 **Enhancements in This README:**  
-✅ **Larger, structured headings for better readability**  
-✅ **Centered important sections for a professional look**  
-✅ **Stylish and interactive GitHub stats**  
-
-This will **make your GitHub profile stand out beautifully!** 🚀  
-Let me know if you need further customizations. 😊  
-
