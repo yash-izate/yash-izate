@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi, I'm <span style="color:#FFC300;">Yash Izate!</span></h1>
+<h1 align="center">🚀 Hi, I'm Yash Izate!</h1>
 <h3 align="center">💻 Aspiring Full Stack Web Developer | AI Enthusiast</h3>
 
 ---
@@ -9,6 +9,25 @@
 - 💡 **Passionate about building innovative web applications**  
 - 🤝 **Looking to collaborate on full stack projects**  
 - ⚡ **Fascinated by Artificial Intelligence & Machine Learning**  
+
+---
+
+## 🛠️ Technology Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-02569B?style=for-the-badge&logo=algorithm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
