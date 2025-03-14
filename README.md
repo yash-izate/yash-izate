@@ -1,26 +1,53 @@
-👋 Hi, I'm Yash Izate! 
+<h1 align="center">👋 Hi, I'm Yash Izate!</h1>  
+<h3 align="center">🚀 Aspiring Data Analyst & Full Stack Web Developer</h3>  
 
-🚀 Aspiring Data Analyst & Full Stack Web Developer
+### **🙋‍♂️ About Me**  
+- 👀 Interested in **Full Stack Development** | Familiar with **Python & Java**  
+- 🌱 Currently learning **Full Stack Development & Data Structures in Java**  
+- 💡 Passionate about **building innovative web applications**  
+- 🤝 Looking to collaborate on **full stack projects**  
+- ⚡ Fascinated by **Artificial Intelligence & Emerging Technologies**  
 
-👀 Interested in Full Stack Development | Familiar with Python & Java
+### **📫 How to Reach Me:**  
+📧 **Email:** [yashizate.softech@gmail.com](mailto:yashizate.softech@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yash-izate](https://www.linkedin.com/in/yash-izate)  
 
-🌱 Currently learning Full Stack Development & Data Structures in Java
+---
 
-💡 Passionate about building innovative web applications
+## 🔥 **GitHub Stats Dashboard**  
 
-🤝 Looking to collaborate on full stack projects
+### 🔥 **GitHub Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
+</p>  
 
-⚡ Fascinated by Artificial Intelligence & Emerging Technologies
+### 🚀 **Profile Statistics**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>  
 
-📫 How to reach me:
+### 💻 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-izate&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
 
-📧 Email: yashizate.softech@gmail.com
+### 🏆 **GitHub Trophies**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>  
 
-🔗 LinkedIn: linkedin.com/in/yash-izate
+### 📈 **Contribution Graph**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
+</p>  
 
-📊 GitHub Stats Dashboard
-🔥 GitHub Streak
+### ⚡ **GitHub Profile Summary**  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-izate&theme=radical" alt="Profile Summary" />
+</p>  
 
-🚀 Profile Statistics
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical)
+--- 
+
+
+
 
