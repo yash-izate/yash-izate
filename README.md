@@ -28,11 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
 </p>  
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>  
-
 ### 📊 GitHub Activity Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
@@ -46,4 +41,9 @@
 ### 📌 Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-izate&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>  
