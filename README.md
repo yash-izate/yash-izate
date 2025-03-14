@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Aspiring+Full+Stack+Web+Developer;AI+%7C+ML+Enthusiast;Passionate+About+Innovative+Tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Aspiring+Full+Stack+Web+Developer;Artificial Intelligence+%7C+MachineLearning+Enthusiast;Passionate+About+Innovative+Tech!">
 </p>
 
 ---
@@ -24,21 +24,6 @@
 - 💡 **Building innovative web applications**  
 - 🤝 **Looking to collaborate on full stack & AI projects**  
 - ⚡ **Passionate about problem-solving & scalable solutions**  
-
----
-
-## 📫 **Connect with Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-izate-a13235277">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yashizate.softech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/yash-izate">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -82,6 +67,20 @@
 
 ---
 
+## 📫 **Connect with Me**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-izate-a13235277">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yashizate.softech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/yash-izate">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 
 **🚀 Stay Tuned for More Projects & Contributions!** 🎉
