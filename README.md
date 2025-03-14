@@ -1,18 +1,14 @@
-# 👋 Hi, I’m @yash-izate
+<h1 align="center" style="color:#FF5733;">🚀 Hi, I'm <span style="color:#FFC300;">Yash Izate!</span> </h1>
+<h3 align="center" style="color:#DAF7A6;">💻 Aspiring Full Stack Web Developer | AI Enthusiast</h3>
 
-👀 I’m interested in full stack web development and familiar with Python and Java programming languages.
+---
 
-🌱 I’m currently learning Full Stack Development and Data Structure & Algorithms in Java.
-
-💞️ I’m looking to collaborate on full stack projects.
-
-💕  I’m also interested in building innovative web applications that solve real-world problems.
-
-⚡ I’m fascinated by artificial intelligence and enjoy reading about the latest advancements in the field.
-
-📫 How to reach me  
-📧 **Email:** [yashizate.softech@gmail.com](mailto:yashizate.softech@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yash-izate](https://www.linkedin.com/in/yash-izate)
+## 🎯 <span style="color:#FF5733;"> About Me </span>
+- 👀 <span style="color:#FFC300;">Interested in Full Stack Development | Familiar with Python & Java</span>  
+- 🌱 <span style="color:#DAF7A6;">Currently learning Full Stack Development & Data Structures in Java</span>  
+- 💡 <span style="color:#FF5733;">Passionate about building innovative web applications</span>  
+- 🤝 <span style="color:#FFC300;">Looking to collaborate on full stack projects</span>  
+- ⚡ <span style="color:#DAF7A6;">Fascinated by Artificial Intelligence & Machine Learning</span>  
 
 ---
 
@@ -26,12 +22,7 @@
 ### 🔥 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
-</p>  
-
-### 📊 GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
-</p>  
+</p>   
 
 ### 📆 Previous Year's Stats  
 <p align="center">
@@ -47,3 +38,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>  
+
+### 📊 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
+</p> 
