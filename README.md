@@ -18,7 +18,7 @@
 
 ### 🔥 **GitHub Streak**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
 </p>  
 
 ### 🚀 **Profile Statistics**  
@@ -26,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>  
 
-### 📆 **GitHub Activity Graph** (Fixed Link ✅)  
+### 📆 **GitHub Activity Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
 </p>  
