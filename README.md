@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Yash Izate!</h1>  
-<h3 align="center">🚀 Aspiring Data Analyst & Full Stack Web Developer</h3>  
+<h3 align="center">🚀 Aspiring AI/ML Engineer & Full Stack Web Developer</h3>  
 
 ### **🙋‍♂️ About Me**  
 - 👀 Interested in **Full Stack Development** | Familiar with **Python & Java**  
 - 🌱 Currently learning **Full Stack Development & Data Structures in Java**  
 - 💡 Passionate about **building innovative web applications**  
 - 🤝 Looking to collaborate on **full stack projects**  
-- ⚡ Fascinated by **Artificial Intelligence & Emerging Technologies**  
+- ⚡ Fascinated by **Artificial Intelligence & Machine Learning**  
 
 ### **📫 How to Reach Me:**  
 📧 **Email:** [yashizate.softech@gmail.com](mailto:yashizate.softech@gmail.com)  
@@ -46,8 +46,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-izate&theme=radical" alt="Profile Summary" />
 </p>  
 
---- 
+---
 
+## 🎯 **Enhancements in This README:**  
+✅ **Larger, structured headings for better readability**  
+✅ **Centered important sections for a professional look**  
+✅ **Stylish and interactive GitHub stats**  
 
-
+This will **make your GitHub profile stand out beautifully!** 🚀  
+Let me know if you need further customizations. 😊  
 
