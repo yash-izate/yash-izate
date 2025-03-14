@@ -1,49 +1,55 @@
-<h1 align="center">👋 Hi, I'm Yash Izate!</h1>  
-<h3 align="center">🚀 Aspiring AI/ML & Full Stack Web Developer</h3>  
-
-### **🙋‍♂️ About Me**  
-- 👀 Interested in **Full Stack Development** | Familiar with **Python & Java**  
-- 🌱 Currently learning **Full Stack Development & Data Structures in Java**  
-- 💡 Passionate about **building innovative web applications**  
-- 🤝 Looking to collaborate on **full stack projects**  
-- ⚡ Fascinated by **Artificial Intelligence & Machine Learning**  
-
-### **📫 How to Reach Me:**  
-📧 **Email:** [yashizate.softech@gmail.com](mailto:yashizate.softech@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yash-izate](https://www.linkedin.com/in/yash-izate)  
+<h1 align="center" style="color:#FF5733;">🚀 Hi, I'm <span style="color:#FFC300;">Yash Izate!</span> </h1>
+<h3 align="center" style="color:#DAF7A6;">💻 Aspiring Full Stack Web Developer | AI Enthusiast</h3>
 
 ---
 
-## 🔥 **GitHub Stats Dashboard**  
+## 🎯 <span style="color:#FF5733;"> About Me </span>
+- 👀 <span style="color:#FFC300;">Interested in Full Stack Development | Familiar with Python & Java</span>  
+- 🌱 <span style="color:#DAF7A6;">Currently learning Full Stack Development & Data Structures in Java</span>  
+- 💡 <span style="color:#FF5733;">Passionate about building innovative web applications</span>  
+- 🤝 <span style="color:#FFC300;">Looking to collaborate on full stack projects</span>  
+- ⚡ <span style="color:#DAF7A6;">Fascinated by Artificial Intelligence & Machine Learning</span>  
 
-### 🔥 **GitHub Streak**
+---
+
+## 📫 <span style="color:#FF5733;">How to Reach Me:</span>
+📧 **Email:** <span style="color:#FFC300;">[yashizate.softech@gmail.com](mailto:yashizate.softech@gmail.com)</span>  
+🔗 **LinkedIn:** <span style="color:#DAF7A6;">[linkedin.com/in/yash-izate](https://www.linkedin.com/in/yash-izate)</span>  
+
+---
+
+# 🔥 <span style="color:#FF5733;"> GitHub Stats Dashboard </span>
+
+### 📜 **<span style="color:#FFC300;">All-Time GitHub Summary</span>**  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-izate&theme=radical" alt="GitHub Profile Summary" />
 </p>  
 
-### 🚀 **Profile Statistics**  
+### 🔥 **<span style="color:#DAF7A6;">GitHub Streak</span>**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
 </p>  
 
-### 📆 **GitHub Activity Graph**
+### 🚀 **<span style="color:#FF5733;">Profile Statistics</span>**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats - All Time" />
+</p>  
+
+### 📆 **<span style="color:#FFC300;">GitHub Activity Graph</span>**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-izate&theme=radical" alt="GitHub Activity Graph" />
 </p>  
 
-### 🏆 **GitHub Trophies**  
+### 🏆 **<span style="color:#DAF7A6;">GitHub Trophies</span>**  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yash-izate&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>  
 
-### 📈 **Previous Year’s GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Previous Year Stats" />
-</p>  
-
-### 💻 **Most Used Languages**  
+### 📈 **<span style="color:#FF5733;">Most Used Languages</span>**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-izate&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
 ---
+
+## 🎨 <span style="color:#FF5733;">Enhancements in This README:</span>
