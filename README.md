@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Aspiring+Full+Stack+Web+Developer;Artificial+Intelligence+%7C+ML+Enthusiast;Passionate+About+Innovative+Tech!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Aspiring+Full+Stack+Web+Developer;Artificial+Intelligence+%6C+ML+Enthusiast;Passionate+About+Innovative+Tech!">
 </p>
 
 ---
