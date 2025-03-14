@@ -9,3 +9,10 @@
 📫 How to reach me:
 📧 Email: yashizate.softech@gmail.com
 🔗 LinkedIn: linkedin.com/in/yash-izate
+
+📊 GitHub Stats Dashboard
+🔥 GitHub Streak
+
+🚀 Profile Statistics
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-izate&show_icons=true&theme=radical)
+
