@@ -29,7 +29,7 @@
 
 ## 🛠️ **Technology Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js,express,react,nodejs,mongodb,sql,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js,express,react,nodejs,mongodb,docker,sql" />
 </p>
 
 ---
