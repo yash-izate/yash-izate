@@ -18,12 +18,20 @@
 
 ---
 
-## 🎯 **About Me**
-- 👀 **Interested in Full Stack Development | AI & ML**  
-- 🌱 **Currently learning Full Stack Development & Data Structures and Algorithms in Java**  
-- 💡 **Building innovative web applications**  
-- 🤝 **Looking to collaborate on full stack & AI projects**  
-- ⚡ **Passionate about problem-solving & scalable solutions**  
+# 🚀 About Me  
+
+Aspiring **Full Stack Developer** | Passionate about **AI & Machine Learning** 🤖  
+
+🔹 **Frontend Development:** Skilled in **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**, creating responsive and visually appealing user interfaces.  
+🔹 **Backend Development:** Proficient in **MongoDB, Express.js, React.js, and Node.js (MERN Stack)**, building scalable and efficient web applications.  
+🔹 **Data Structures & Algorithms (DSA) in Java:** Strengthening problem-solving skills with optimized algorithms and coding challenges.  
+
+💡 Passionate about developing **scalable, high-performance solutions** and solving complex problems.  
+🤝 Open to **collaborations** on **full stack and AI-driven projects**.  
+📈 Always eager to **learn, innovate, and grow** in the tech space.  
+
+**Let’s connect and build something amazing together!** 🚀  
+
 
 ---
 
