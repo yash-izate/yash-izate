@@ -37,7 +37,7 @@ Aspiring **Full Stack Developer** | Passionate about **AI & Machine Learning** �
 
 ## 🛠️ **Technology Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js,express,react,nodejs,mongodb,docker,sql" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,python,html,css,js,express,react,nodejs,mongodb,docker,sql,tailwind,bootstrap" />
 </p>
 
 ---
