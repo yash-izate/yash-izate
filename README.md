@@ -20,7 +20,7 @@
 
 ## 🎯 **About Me**
 - 👀 **Interested in Full Stack Development | AI & ML**  
-- 🌱 **Currently learning Full Stack Development & Data Structures in Java**  
+- 🌱 **Currently learning Full Stack Development & Data Structures and Algorithms in Java**  
 - 💡 **Building innovative web applications**  
 - 🤝 **Looking to collaborate on full stack & AI projects**  
 - ⚡ **Passionate about problem-solving & scalable solutions**  
