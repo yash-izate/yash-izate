@@ -18,7 +18,7 @@
 
 ---
 
-# 🚀 About Me  
+# ✨ About Me  
 
 Aspiring **Full Stack Developer** | Passionate about **AI & Machine Learning** 🤖  
 
