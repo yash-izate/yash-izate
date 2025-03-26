@@ -48,10 +48,10 @@ Aspiring **Full Stack Developer** | Passionate about **AI & Machine Learning** �
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yash-izate&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>  
 
-### 🔥 **GitHub Streak**
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
-</p>   
+  <img src="https://streak-stats.demolab.com/?user=yash-izate&theme=radical" alt="GitHub Streak" />
+</p>  
 
 ### 📆 **Previous Year's Stats**
 <p align="center">
